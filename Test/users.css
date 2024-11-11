@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
+.red {
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}

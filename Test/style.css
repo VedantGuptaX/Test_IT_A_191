@@ -1,0 +1,8 @@
+input, button {
+    border-radius:5 px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
